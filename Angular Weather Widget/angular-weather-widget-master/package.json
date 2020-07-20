@@ -107,7 +107,7 @@
     "weather-icons": "^1.3.2",
     "webpack": "^3.3.0",
     "webpack-angular-externals": "^1.0.0",
-    "webpack-dev-server": "^2.2.0",
+    "webpack-dev-server": "^3.11.0",
     "webpack-rxjs-externals": "^1.0.0",
     "zone.js": "^0.8.4",
     "@types/chart.js": "^2.6.1",
